@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickey07" alt="rickey07" /></a> </p>
 
-- 🔭 I’m currently working on **React-Music-Player**
+- 🔭 I’m currently working on **E-commerce Clone Application**
 
 - 🌱 I’m currently learning **React Js, Node Js**
 
