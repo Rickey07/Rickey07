@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **Rickeyrickey747@gmail.com**
 
-- ⚡ Fun fact **I am worst at being at good programmer but still can get the job done within time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
