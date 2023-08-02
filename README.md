@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **E-commerce Products Price Compare Application Application**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **SQL**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Prabadhya](https://hashnode.com/@Prabadhya)
 
