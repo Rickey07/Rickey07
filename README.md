@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickey07" alt="rickey07" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Products Price Compare Application Application**
+- 🔭 I’m currently working on **Dashnode A developer social media Application**
 
 - 🌱 I’m currently learning **SQL**
 
